@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Number</string>
+    <string name="triangular_or_square">Triangular or Square? or Both</string>
+    <string name="check_answer">Check Answer</string>
+</resources>
